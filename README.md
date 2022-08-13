@@ -1,4 +1,4 @@
-# LAB - Class 31
+# LAB - Class 32
 ## Project: Quotes Library API
 ### Author: Lama Radwan
 
